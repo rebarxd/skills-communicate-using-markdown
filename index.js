@@ -7,3 +7,5 @@ hello. first commit changes
 adding image
 ![Image of Neurocat](https://octodex.github.com/images/neurocats_FULL.png)
 
+
+var myVar = "Hello, world!";
